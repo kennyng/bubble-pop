@@ -1,0 +1,5 @@
+distribute==0.6.28
+nose==1.2.1
+numpy==1.6.2
+pygame==1.9.1release
+wsgiref==0.1.2
